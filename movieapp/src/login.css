@@ -1,0 +1,8 @@
+.loginError {
+    background-color: #FFBABA;
+    font-size: 13px;
+    font-family: sans-serif;
+    border: 1px solid;
+    color: #D8000C;
+    margin-top: 30px;
+  }

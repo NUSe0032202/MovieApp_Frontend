@@ -1,0 +1,27 @@
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+.error {
+  color: red;
+}
+.validations {
+  background-color: #FFBABA;
+  font-size: 13px;
+  font-family: sans-serif;
+  border: 1px solid;
+  color: #D8000C;
+  margin-top: 30px;
+  
+}
+
+
+
+.success {
+  color: #4F8A10;
+  background-color: #DFF2BF;
+  font-size: 13px;
+  font-family: sans-serif;
+  border: 1px solid;
+  margin-top: 30px;
+}
